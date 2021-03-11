@@ -1,1 +1,1 @@
-[Belfast Icons](https://LeahSmyth.github.io/Belfast/index.html)
+[Belfast Icons](https://leahsmyth.github.io/Belfast-Landmarks/index.html)
