@@ -17,7 +17,13 @@ body {
 
 /*---Title---*/
 
-.Belfast-title{width:40%; padding:5% 30% 3% 30%;}
+.Belfast-title{width:26%; padding:5% 37% 3% 37%;}
+
+p{color:#ffffff;
+    font-size:105%;
+    font-family: 'Montserrat', sans-serif;
+    padding:1em 27% 1em 27%;
+    line-height:1.5em;}
 
 /*---Portfolio---*/
 
